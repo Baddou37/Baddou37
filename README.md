@@ -1,6 +1,29 @@
 <h1 align="center">Hi 👋, I'm Julien</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 
+<p align="center">
+  <img
+    src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif"
+    alt="jb-dev-couturier"
+    width="15%"
+  />
+   <img
+    src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif"
+    alt="jb-dev-couturier"
+    width="15%"
+  />
+  <img
+    src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif"
+    alt="jb-dev-couturier"
+    width="15%"
+  />
+   <img
+    src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif"
+    alt="jb-dev-couturier"
+    width="15%"
+  />
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julienthibault&label=Profile%20views&color=0e75b6&style=flat" alt="julienthibault" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=julienthibault" alt="julienthibault" /></a> </p>
