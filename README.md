@@ -26,7 +26,7 @@
 
 <p align="left"> <a href="https://twitter.com/baddou_37" target="blank"><img src="https://img.shields.io/twitter/follow/baddou_37?logo=twitter&style=for-the-badge" alt="baddou_37" /></a> </p>
 
-- 🔭 I’m currently working on [Baddou37](https://github.com/Baddou37/baddou37.github.io)
+- 🔭 I’m currently working on [My Portfolio](https://github.com/Baddou37/baddou37.github.io)
 
 - 🌱 I’m currently learning **Node.js, Express & React**
 
